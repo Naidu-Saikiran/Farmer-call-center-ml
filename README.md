@@ -37,9 +37,9 @@ AI-based voice-assisted Contact Center for assisting Farmers for their problems.
 
 | S.No. | Branch Name                                                                  | Purpose                       |
 | ----- | ---------------------------------------------------------------------------- | ----------------------------- |
-| 1.    | [master](https://github.com/rudrakshi99/Farmer-Call-Center/tree/master)      | contains all Frontend code    |
-| 2.    | [backend](https://github.com/rudrakshi99/Farmer-Call-Center/tree/backend)    | contains all Backend code     |
-| 3.    | [ml](https://github.com/rudrakshi99/Farmer-Call-Center/tree/ml)              | contains all ML code          |
+| 1.    | [master](https://github.com/Saikirannaidu225/Farmer-call-center)      | contains all Frontend code    |
+| 2.    | [backend](https://github.com/rudrakshi99/Farmer-Call-Center-backend)    | contains all Backend code     |
+| 3.    | [ml](https://github.com/Saikirannaidu225/Farmer-call-center-ml)              | contains all ML code          |
 
 ### Frontend Setup Instructions
 
